@@ -1,0 +1,14 @@
+{
+    "name": "code_helper",
+    "version": "1.0.0",
+    "description": "Ayudas de código",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "author": "Yetzin",
+    "license": "ISC",
+    "devDependencies": {
+        "electron": "^8.2.0"
+    }
+}
